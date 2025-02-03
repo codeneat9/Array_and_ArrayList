@@ -1,4 +1,5 @@
-# Array Manipulation and Number Separation in Java
+
+# Array Functions
 
 This Java project demonstrates array manipulation techniques, including user input for creating an array, separating even and odd numbers, finding the smallest distance pair in an array, and converting between arrays and ArrayLists. The project showcases basic Java programming concepts such as loops, conditional statements, and working with collections like arrays and ArrayLists.
 

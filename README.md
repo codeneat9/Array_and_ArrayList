@@ -60,6 +60,6 @@ The `EvenOddSeparator` class is tasked with separating even and odd numbers from
 
 This project is an excellent way to practice basic array manipulations and user input handling in Java. It also provides a clear example of separating and processing even and odd numbers, as well as working with Java's built-in data structures like arrays and ArrayLists.
 
-## BY:
+## Contributors:
  Yashwith Behara
 
